@@ -1,0 +1,78 @@
+{
+    "encuestas": [
+        {
+            "id": "1",
+            "titulo": "Encuesta de Nombres",
+            "preguntas": [
+                {
+                    "id": "1",
+                    "pregunta": "¿Cuál es tu nombre?",
+                    "respuestas": [
+                        {
+                            "id": "1", "respuesta": "Juan" 
+                        },
+                        {
+                            "id": "2", "respuesta": "Pedro"
+                        },
+                        {
+                            "id": "3", "respuesta": "Carlos"
+                        },
+                        {
+                            "id": "4", "respuesta": "Ana"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "titulo": "Encuesta de apellidos",
+            "preguntas": [
+                {
+                    "id": "1",
+                    "pregunta": "¿Cuál es tu apellido?",
+                    "respuestas": [
+                        {
+                            "id": "1", "respuesta": "Perez" 
+                        },
+                        {
+                            "id": "2", "respuesta": "Garcia"
+                        },
+                        {
+                            "id": "3", "respuesta": "Lopez"
+                        },
+                        {
+                            "id": "4", "respuesta": "Gomez"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "titulo": "Encuesta de edades",
+            "preguntas": [
+                {
+                    "id": "1",
+                    "pregunta": "¿Cuál es tu edad?",
+                    "respuestas": [
+                        {
+                            "id": "1", "respuesta": "18" 
+                        },
+                        {
+                            "id": "2", "respuesta": "19"
+                        },
+                        {
+                            "id": "3", "respuesta": "20"
+                        },
+                        {
+                            "id": "4", "respuesta": "21"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
+
